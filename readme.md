@@ -57,11 +57,32 @@ The analysis of the Uber dataset revealed clear temporal and spatial patterns in
 2. **Explore Visualizations**: Interact with the dashboard to explore different aspects of the Uber data.
 3. **Modify or Extend**: Use the cleaned dataset to create new visualizations or perform further analysis.
 
-
-
 ## 8. Credits
 - Dataset Source: [Kaggle/Uber](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city) *(or specify actual source)*
 - Project by: Mahirwe Yvette
+
+
+## 10. Documentation Screenshots
+
+Below are key screenshots documenting the workflow and development stages of this project. Replace the image links with your actual screenshots as needed.
+
+### Data Loading Process
+![Data Loading](screenshots/data-loading.png)
+*Screenshot of importing the Uber dataset into Power BI.*
+
+### Data Cleaning Steps
+![Data Cleaning](screenshots/data-cleaning.png)
+*Screenshot showing data cleaning or transformation steps (e.g., Power Query Editor or Python/Excel process).* 
+
+### DAX Formulas (if used)
+![DAX Formulas](screenshots/dax-formulas.png)
+*Screenshot of DAX formulas used in Power BI for calculated columns or measures.*
+
+### Dashboard Development Stages
+![Dashboard Development](screenshots/dashboard-development.png)
+*Screenshots showing the evolution of the dashboard, from initial layout to final design.*
+
+---
 
 ## 9. License
 This project is for educational purposes only.
