@@ -1,4 +1,3 @@
-
 # Big Data Assignment: Uber Dataset Analysis with Power BI
 
 
@@ -67,20 +66,14 @@ The analysis of the Uber dataset revealed clear temporal and spatial patterns in
 Below are key screenshots documenting the workflow and development stages of this project. Replace the image links with your actual screenshots as needed.
 
 ### Data Loading Process
-![Data Loading](screenshots/data-loading.png)
-*Screenshot of importing the Uber dataset into Power BI.*
+<img width="1222" height="580" alt="Screenshot_2" src="https://github.com/user-attachments/assets/37499972-73b1-4de2-87cc-fbeb135c60a4" />
 
 ### Data Cleaning Steps
-![Data Cleaning](screenshots/data-cleaning.png)
-*Screenshot showing data cleaning or transformation steps (e.g., Power Query Editor or Python/Excel process).* 
-
-### DAX Formulas (if used)
-![DAX Formulas](screenshots/dax-formulas.png)
-*Screenshot of DAX formulas used in Power BI for calculated columns or measures.*
+<img width="1237" height="517" alt="Screenshot_3" src="https://github.com/user-attachments/assets/927063d1-1788-42db-94bc-bf0a198b51b9" />
+<img width="1143" height="663" alt="Screenshot_4" src="https://github.com/user-attachments/assets/117b6aae-9df4-4827-ac9f-0246ff35432d" />
 
 ### Dashboard Development Stages
-![Dashboard Development](screenshots/dashboard-development.png)
-*Screenshots showing the evolution of the dashboard, from initial layout to final design.*
+<img width="1134" height="646" alt="Screenshot_1" src="https://github.com/user-attachments/assets/55f98332-6f09-4253-a0ec-d8e8a7303270" />
 
 ---
 
