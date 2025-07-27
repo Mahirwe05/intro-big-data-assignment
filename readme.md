@@ -1,12 +1,10 @@
-# Big Data Assignment: Uber Dataset Analysis with Power BI
-
-
-## 1. Introduction
+🚖 # Big Data Assignment: Uber Dataset Analysis with Power BI
+📌## 1. Introduction
 This project focuses on analyzing Uber ride data using big data techniques and Power BI visualizations. The primary objectives are to explore, clean, and visualize the Uber dataset to uncover trends, patterns, and actionable insights that can inform business decisions and improve operational efficiency.
 
-## 2. Methodology
-### Data Collection
-- The raw Uber dataset (`uber.csv`) was sourced from [Kaggle/Uber](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city) and contains detailed records of Uber rides.
+🔍## 2. Methodology
+📥### Data Collection
+The raw Uber dataset (uber.csv) was sourced from a public repository containing ride data across various time frames and locations. [Kaggle/Uber](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city) and contains detailed records of Uber rides.
 
 ### Data Cleaning & Preprocessing
 - Removed duplicate records to ensure data quality.
