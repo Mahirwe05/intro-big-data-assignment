@@ -77,5 +77,4 @@ Below are key screenshots documenting the workflow and development stages of thi
 
 ---
 
-## 9. License
-This project is for educational purposes only.
+
