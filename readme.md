@@ -1,3 +1,7 @@
+## Name: MAHIRWE Yvette
+## ID:26510
+
+
 # 🚖  Big Data Assignment: Uber Dataset Analysis with Power BI
 ## 📌 1. Introduction
 This project focuses on analyzing Uber ride data using big data techniques and Power BI visualizations. The primary objectives are to explore, clean, and visualize the Uber dataset to uncover trends, patterns, and actionable insights that can inform business decisions and improve operational efficiency.
